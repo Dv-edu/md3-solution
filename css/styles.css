@@ -1,0 +1,23 @@
+.navbar-collapse {
+    background-color: #404040;
+}
+.nav li:hover {
+    background-color: #303030;
+}
+
+.food-item {
+    background-color: burlywood;
+    padding:10px;
+    margin-bottom: 10px;
+    border-radius: 3px;
+    border:1px solid #aaa;
+}
+.food-item h3 {
+    margin: 0;
+    margin-bottom: 13px;
+    background-color: #303030;
+    padding: 10px;
+    color: aliceblue;
+    border-radius: 3px;
+    text-align: center;
+}
